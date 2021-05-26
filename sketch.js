@@ -35,7 +35,7 @@ function draw() {
   textSize(24);
   fill("cyan");
   stroke("white");
-  text("Food: " + foodStock, 40, 40);
+  text("Food: " + foodS, 40, 40);
 }
 
 function readStock(data){
